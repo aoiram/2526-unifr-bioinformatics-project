@@ -1,1 +1,1 @@
-# UNIBE - Bioinformatics project
+# UNIBE - Bioinformatics project - Group I
